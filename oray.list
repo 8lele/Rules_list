@@ -1,4 +1,4 @@
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,orayimg.com
-IP-CIDR,47.110.77.0/24
+IP-CIDR,47.110.77.0/24,no-resolve
