@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,orayimg.com
 IP-CIDR,47.110.77.0/24,no-resolve
 IP-CIDR,118.31.65.215/32,no-resolve
 IP-CIDR,60.163.191.0/24,no-resolve
-IP-CIDR,180.97.153.131/32,no-resolve
+IP-CIDR,180.97.153.0/24,no-resolve
 IP-CIDR,180.103.181.0/24,no-resolve
 IP-CIDR,221.228.93.0/24,no-resolve
 IP-CIDR,58.221.28.4/32,no-resolve
